@@ -16,10 +16,10 @@
 ---
 
 ## 📱 Clients
-###Telegram
+### Telegram
 - `FOSS` [Unigram](https://github.com/UnigramDev/Unigram)
 
-###Discord
+### Discord
 - [BetterDiscord](https://betterdiscord.app/) [`📎Needs Additional Setup`](https://betterdiscord.app/theme/Discord%2011)
 
 
