@@ -15,6 +15,7 @@
 - [📁 File Managers](#-file-managers)
 - [🎥 Media Players](#-media-players)
 - [🔧 Utilites](#-utilites)
+- [<img src="https://i.slow.pics/T7o2WYO7.png" alt="win11" width="14" height="14" /> Windows Customization](#-windows-customization)
 ---
 
 - **Differences between No Mica and Full**
@@ -77,13 +78,17 @@
 ## 🖌️ Theming Apps  
 - `Full` [Rectify11](https://github.com/Rectify11/Installer) <sup>`FOSS`</sup>
 - `Full` [Mica For Everyone](https://github.com/MicaForEveryone/MicaForEveryone) <sup>`FOSS`</sup>
+- `Full` [MagPie](https://github.com/Blinue/Magpie) <sup>`FOSS`</sup>
+- `Full` [Revision Tool](https://github.com/meetrevision/revision-tool)  `FOSS`  [`📎For ReviOS Only`](https://github.com/meetrevision/playbook)
+- `Full` [Lively Wallpaper](https://github.com/rocksdanister/lively)  `FOSS`
+- `Full` [TraslucentTB](https://github.com/TranslucentTB/TranslucentTB) `FOSS`
 
 ## 🔧 Utilites
-- `Full` [MagPie](https://github.com/Blinue/Magpie) <sup>`FOSS`</sup>
 - `Full` [Windows Terminal](https://github.com/microsoft/terminal) <sup>`FOSS`</sup>
 - `Full` [WinUI Gallery](https://github.com/microsoft/WinUI-Gallery) <sup>`FOSS`</sup>
 - `Full` [DevToys](https://github.com/veler/DevToys) <sup>`FOSS`</sup>
 - `Full` [Modern Winver](https://github.com/torchgm/NewModernWinver) <sup>`FOSS`</sup>
 - `Full` [Snipping Tool](https://www.microsoft.com/store/productid/9MZ95KL8MR0L?ocid=pdpshare)
 - `Full` [Registry Valley](https://github.com/0x5bfa/RegistryValley) <sup>`FOSS`</sup> <sup>`Not Released`</sup>
+- `No Mica` [Fluent Terminal](https://github.com/felixse/FluentTerminal)  `FOSS`
 - `No Mica` [PC Health check](https://support.microsoft.com/en-us/windows/how-to-use-the-pc-health-check-app-9c8abd9b-03ba-4e67-81ef-36f37caa7844)
