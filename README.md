@@ -83,6 +83,7 @@
  
 ## 🖌️ Windows Customization
 - `Full` [Rectify11](https://github.com/Rectify11/Installer) <sup>`FOSS`</sup>
+- `Full` [AME Wizard](https://git.ameliorated.info/Styris/trusted-uninstaller-cli) <sup>`FOSS`</sup>
 - `Full` [Mica For Everyone](https://github.com/MicaForEveryone/MicaForEveryone) <sup>`FOSS`</sup>
 - `Full` [MagPie](https://github.com/Blinue/Magpie) <sup>`FOSS`</sup>
 - `Full` [Revision Tool](https://github.com/meetrevision/revision-tool) <sup>`FOSS`</sup> <sup>[`📎For ReviOS Only`](https://github.com/meetrevision/playbook)</sup>
@@ -90,7 +91,9 @@
 - `Full` [TraslucentTB](https://github.com/TranslucentTB/TranslucentTB) <sup>`FOSS`</sup>
 
 ## 🔧 Utilites
+- `Full` [WingetUI](https://github.com/marticliment/WingetUI) <sup>`FOSS`</sup>
 - `Full` [Windows Terminal](https://github.com/microsoft/terminal) <sup>`FOSS`</sup>
+- `Full` [Windows Calculator](https://github.com/microsoft/calculator) <sup>`FOSS`</sup>
 - `Full` [WinUI Gallery](https://github.com/microsoft/WinUI-Gallery) <sup>`FOSS`</sup>
 - `Full` [DevToys](https://github.com/veler/DevToys) <sup>`FOSS`</sup>
 - `Full` [Modern Winver](https://github.com/torchgm/NewModernWinver) <sup>`FOSS`</sup>
