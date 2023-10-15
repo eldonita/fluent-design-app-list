@@ -22,10 +22,10 @@
 |**`FOSS`**|Apps are Free and Open Source. No indicator means app is Closed Source.|
 
 ## 📱 Clients
-### <img src="https://i.ibb.co/DMsDsz2/telegram-logo-5941.png" alt="telegram" width="21" height="21" /> Telegram
+### <img src="https://i.ibb.co/DMsDsz2/telegram-logo-5941.png" alt="telegram" width="18" height="18" /> Telegram
 - [Unigram](https://github.com/UnigramDev/Unigram) `FOSS`
 
-### <img src="https://i.ibb.co/18hNFS2/discord-8234.png" alt="discord" width="21" height="21" /> Discord
+### <img src="https://i.ibb.co/18hNFS2/discord-8234.png" alt="discord" width="18" height="18" /> Discord
 - [BetterDiscord](https://betterdiscord.app/) [`📎Needs Additional Setup`](https://betterdiscord.app/theme/Discord%2011)
 
 
