@@ -13,7 +13,13 @@
 - [📱 Clients](#-clients)
 - [📄 Texts Editors](#-text-editors)
 - [📁 File Managers](#-file-managers)
+- [🎥 Media Players](#-media-players)
+- [🔧 Utilites](#-utilites)
 ---
+
+|Abbreviation|Meaning|
+|:-:|-|
+|**`FOSS`**|Apps are Free and Open Source. No indicator means app is Closed Source.|
 
 ## 📱 Clients
 ### Telegram
@@ -28,3 +34,13 @@
 
 ## 📁 File Managers
 - `FOSS` [Files](https://github.com/files-community/Files)
+- `FOSS` [RX-Explorer](https://github.com/zhuxb711/RX-Explorer)
+
+## 🎥 Media Players
+### Audio Players
+- `FOSS` [Rise Media Player](https://github.com/Rise-Software/Rise-Media-Player)
+### Video Players
+- `FOSS` [ScreenBox](https://github.com/huynhsontung/Screenbox)
+
+## 🔧 Utilites
+- `FOSS` [MagPie](https://github.com/Blinue/Magpie)
