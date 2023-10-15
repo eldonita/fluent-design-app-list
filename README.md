@@ -12,6 +12,9 @@
 ## 📃 Table of contents
 - [📱 Clients](#-clients)
 - [📄 Text/Code Editors/Office Apps](#-textcode-editorsoffice-apps)
+  - [Text Editors](#text-editors)
+  - [Code Editors](#code-editors)
+  - [Office Apps](#office-apps)
 - [📁 File Managers](#-file-managers)
 - [🎥 Media Players](#-media-players)
 - [🖼️ Gallery](#%EF%B8%8F-gallery)
@@ -65,8 +68,8 @@
 - `No Mica` [RX-Explorer](https://github.com/zhuxb711/RX-Explorer) <sup>`FOSS`</sup>
 
 ## 🎥 Media Players
+  - `Full` [Screenbox](https://github.com/huynhsontung/Screenbox) <sup>`FOSS`</sup>
   - `Full` [Rise Media Player](https://github.com/Rise-Software/Rise-Media-Player)  <sup>`FOSS`</sup> <sup>`Not released`</sup>
-  - `Full` [ScreenBox](https://github.com/huynhsontung/Screenbox) <sup>`FOSS`</sup>
   - `Full` [Windows Media Player](https://www.microsoft.com/store/productid/9WZDNCRFJ3PT?ocid=pdpshare)
 
 ## 🖼️ Gallery
