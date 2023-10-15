@@ -14,8 +14,9 @@
 - [📄 Text/Code Editors/Office Apps](#-textcode-editorsoffice-apps)
 - [📁 File Managers](#-file-managers)
 - [🎥 Media Players](#-media-players)
+- [🖼️ Gallery](#%EF%B8%8F-gallery)
+- [🖌️ Windows Customization](#%EF%B8%8F-windows-customization)
 - [🔧 Utilites](#-utilites)
-- [<img src="https://i.slow.pics/T7o2WYO7.png" alt="win11" width="14" height="14" /> Windows Customization](#-windows-customization)
 ---
 
 - **Differences between No Mica and Full**
@@ -68,20 +69,20 @@
   - `Full` [ScreenBox](https://github.com/huynhsontung/Screenbox) <sup>`FOSS`</sup>
   - `Full` [Windows Media Player](https://www.microsoft.com/store/productid/9WZDNCRFJ3PT?ocid=pdpshare)
 
-### 🖼️ Gallery
+## 🖼️ Gallery
   - `Full` [Microsoft Photos](https://www.microsoft.com/store/productid/9WZDNCRFJBH4?ocid=pdpshare)
 
   - ### Tools
       - `Full` [Microsoft Clipchamp](https://www.microsoft.com/store/productid/9P1J8S7CCWWT?ocid=pdpshare)
       - `Full` [Paint](https://www.microsoft.com/store/productid/9PCFS5B6T72H?ocid=pdpshare)
-
-## 🖌️ Theming Apps  
+ 
+## 🖌️ Windows Customization
 - `Full` [Rectify11](https://github.com/Rectify11/Installer) <sup>`FOSS`</sup>
 - `Full` [Mica For Everyone](https://github.com/MicaForEveryone/MicaForEveryone) <sup>`FOSS`</sup>
 - `Full` [MagPie](https://github.com/Blinue/Magpie) <sup>`FOSS`</sup>
-- `Full` [Revision Tool](https://github.com/meetrevision/revision-tool)  `FOSS`  [`📎For ReviOS Only`](https://github.com/meetrevision/playbook)
-- `Full` [Lively Wallpaper](https://github.com/rocksdanister/lively)  `FOSS`
-- `Full` [TraslucentTB](https://github.com/TranslucentTB/TranslucentTB) `FOSS`
+- `Full` [Revision Tool](https://github.com/meetrevision/revision-tool) <sup>`FOSS`</sup> <sup>[`📎For ReviOS Only`](https://github.com/meetrevision/playbook)</sup>
+- `Full` [Lively Wallpaper](https://github.com/rocksdanister/lively)  <sup>`FOSS`</sup>
+- `Full` [TraslucentTB](https://github.com/TranslucentTB/TranslucentTB) <sup>`FOSS`</sup>
 
 ## 🔧 Utilites
 - `Full` [Windows Terminal](https://github.com/microsoft/terminal) <sup>`FOSS`</sup>
