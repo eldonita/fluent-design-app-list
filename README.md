@@ -12,8 +12,9 @@
 ## 📃 Table of contents
 - [📱 Clients](#-clients)
   - [<img src="https://i.ibb.co/DMsDsz2/telegram-logo-5941.png" alt="telegram" width="14" height="14" /> Telegram](#-telegram)
-  - [<img src="https://i.ibb.co/18hNFS2/discord-8234.png" alt="discord" width="14" height="14" /> Discord](#-discord)
-  - [<img src="https://i.ibb.co/54JN5RM/icons8-vk-480.png" alt="vk" width="17" height="17" /> VK](#-vk)
+  - [<img src="https://i.ibb.co/18hNFS2/discord-8234.png" alt="discord" width="15" height="15" /> Discord](#-discord)
+  - [<img src="https://i.ibb.co/M8DgVHZ/vk-icon-2048x2048-8zpe9ixc.png" alt="vk" width="15" height="15" /> VK](#-vk)
+  - [<img src="https://i.ibb.co/52x0PBS/25231.png" alt="github" width="15" height="15" /> GitHub](#-github)
   - [Other Clients](#other-clients)
 - [📄 Text/Code Editors/Office Apps](#-textcode-editorsoffice-apps)
   - [Text Editors](#text-editors)
@@ -49,10 +50,10 @@
 - ### <img src="https://i.ibb.co/18hNFS2/discord-8234.png" alt="discord" width="18" height="18" /> Discord
   - `No Mica` [BetterDiscord](https://betterdiscord.app/) <sup>[`📎Needs Additional Setup`](https://betterdiscord.app/theme/Discord%2011)</sup>
 
-- ### <img src="https://i.ibb.co/54JN5RM/icons8-vk-480.png" alt="vk" width="22" height="22" /> VK
+- ### <img src="https://i.ibb.co/M8DgVHZ/vk-icon-2048x2048-8zpe9ixc.png" alt="vk" width="18" height="18" /> VK
   - `Full` [Laney](https://www.microsoft.com/store/productid/9MSPLCXVN1M5?ocid=pdpshare)
 
-- ### <img src="https://i.ibb.co/52x0PBS/25231.png" alt="github" width="22" height="22" /> GitHub
+- ### <img src="https://i.ibb.co/52x0PBS/25231.png" alt="github" width="19" height="19" /> GitHub
  - `Full` [FluentHub](https://github.com/FluentHub/FluentHub) <sup>`FOSS`</sup> 
 
 - ### Other clients
