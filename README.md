@@ -52,7 +52,6 @@
 
 - ### <img src="https://i.ibb.co/54JN5RM/icons8-vk-480.png" alt="vk" width="22" height="22" /> VK
   - `Full` [Laney](https://www.microsoft.com/store/productid/9MSPLCXVN1M5?ocid=pdpshare)
-`
 
 
 - ### Other clients
