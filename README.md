@@ -91,9 +91,9 @@
 - `Full` [TraslucentTB](https://github.com/TranslucentTB/TranslucentTB) <sup>`FOSS`</sup>
 
 ## 🔧 Utilites
-- `Full` [WingetUI](https://github.com/marticliment/WingetUI) <sup>`FOSS`</sup>
 - `Full` [Windows Terminal](https://github.com/microsoft/terminal) <sup>`FOSS`</sup>
 - `Full` [Windows Calculator](https://github.com/microsoft/calculator) <sup>`FOSS`</sup>
+- `Full` [WingetUI](https://github.com/marticliment/WingetUI) <sup>`FOSS`</sup>
 - `Full` [WinUI Gallery](https://github.com/microsoft/WinUI-Gallery) <sup>`FOSS`</sup>
 - `Full` [DevToys](https://github.com/veler/DevToys) <sup>`FOSS`</sup>
 - `Full` [Modern Winver](https://github.com/torchgm/NewModernWinver) <sup>`FOSS`</sup>
