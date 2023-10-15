@@ -11,6 +11,10 @@
 ---
 ## 📃 Table of contents
 - [📱 Clients](#-clients)
+  - [<img src="https://i.ibb.co/DMsDsz2/telegram-logo-5941.png" alt="telegram" width="14" height="14" /> Telegram](#-telegram)
+  - [<img src="https://i.ibb.co/18hNFS2/discord-8234.png" alt="discord" width="14" height="14" /> Discord](#-discord)
+  - [<img src="https://i.ibb.co/54JN5RM/icons8-vk-480.png" alt="vk" width="17" height="17" /> VK](#-vk)
+  - [Other Clients](#other-clients)
 - [📄 Text/Code Editors/Office Apps](#-textcode-editorsoffice-apps)
   - [Text Editors](#text-editors)
   - [Code Editors](#code-editors)
@@ -22,14 +26,14 @@
 - [🔧 Utilites](#-utilites)
 ---
 
-- **Differences between No Mica and Full**
+## Differences between No Mica and Full
 
 | Abbreviation | Meaning | Design | Mica effect |
 |:-:|-|:-:|:-:|
 |**`No Mica`**|Apps that doesn't have Mica effect or have something simmilar.|✅|🚫|
 |**`Full`**|Apps that fully follows WinUI3 philosophy.|✅|✅|
 
-- **Other abbreviations**
+## Other abbreviations
   
 |Abbreviation|Meaning|
 |:-:|-|
@@ -39,17 +43,21 @@
 ---
 
 ## 📱 Clients
-### <img src="https://i.ibb.co/DMsDsz2/telegram-logo-5941.png" alt="telegram" width="18" height="18" /> **Telegram**
-- `Full` [Unigram](https://github.com/UnigramDev/Unigram) <sup>`FOSS`</sup>
+- ### <img src="https://i.ibb.co/DMsDsz2/telegram-logo-5941.png" alt="telegram" width="18" height="18" /> Telegram
+  - `Full` [Unigram](https://github.com/UnigramDev/Unigram) <sup>`FOSS`</sup>
 
-### <img src="https://i.ibb.co/18hNFS2/discord-8234.png" alt="discord" width="18" height="18" /> **Discord**
-- `No Mica` [BetterDiscord](https://betterdiscord.app/) <sup>[`📎Needs Additional Setup`](https://betterdiscord.app/theme/Discord%2011)</sup>
+- ### <img src="https://i.ibb.co/18hNFS2/discord-8234.png" alt="discord" width="18" height="18" /> Discord
+  - `No Mica` [BetterDiscord](https://betterdiscord.app/) <sup>[`📎Needs Additional Setup`](https://betterdiscord.app/theme/Discord%2011)</sup>
 
-#### <img src="https://i.ibb.co/54JN5RM/icons8-vk-480.png" alt="vk" width="22" height="22" /> **VK**
-- `Full` [Laney](https://www.microsoft.com/store/productid/9MSPLCXVN1M5?ocid=pdpshare)
+
+- ### <img src="https://i.ibb.co/54JN5RM/icons8-vk-480.png" alt="vk" width="22" height="22" /> VK
+  - `Full` [Laney](https://www.microsoft.com/store/productid/9MSPLCXVN1M5?ocid=pdpshare)
+`
+
 
 - ### Other clients
   - `Full` [UWPX](https://github.com/UWPX/UWPX-Client) <sup>`FOSS`</sup>
+  
 ## 📄 Text/Code Editors/Office apps 
 - ### Text Editors
   - `Full` [Notepads](https://github.com/0x7c13/Notepads) <sup>`FOSS`</sup>
