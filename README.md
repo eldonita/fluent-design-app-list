@@ -49,8 +49,11 @@
 - ### <img src="https://i.ibb.co/18hNFS2/discord-8234.png" alt="discord" width="18" height="18" /> Discord
   - `No Mica` [BetterDiscord](https://betterdiscord.app/) <sup>[`📎Needs Additional Setup`](https://betterdiscord.app/theme/Discord%2011)</sup>
 
+
 - ### <img src="https://i.ibb.co/54JN5RM/icons8-vk-480.png" alt="vk" width="22" height="22" /> VK
   - `Full` [Laney](https://www.microsoft.com/store/productid/9MSPLCXVN1M5?ocid=pdpshare)
+`
+
 
 - ### Other clients
   - `Full` [UWPX](https://github.com/UWPX/UWPX-Client) <sup>`FOSS`</sup>
@@ -88,6 +91,7 @@
  
 ## 🖌️ Windows Customization
 - `Full` [Rectify11](https://github.com/Rectify11/Installer) <sup>`FOSS`</sup>
+- `Full` [AME Wizard](https://git.ameliorated.info/Styris/trusted-uninstaller-cli) <sup>`FOSS`</sup>
 - `Full` [Mica For Everyone](https://github.com/MicaForEveryone/MicaForEveryone) <sup>`FOSS`</sup>
 - `Full` [MagPie](https://github.com/Blinue/Magpie) <sup>`FOSS`</sup>
 - `Full` [Revision Tool](https://github.com/meetrevision/revision-tool) <sup>`FOSS`</sup> <sup>[`📎For ReviOS Only`](https://github.com/meetrevision/playbook)</sup>
@@ -96,6 +100,8 @@
 
 ## 🔧 Utilites
 - `Full` [Windows Terminal](https://github.com/microsoft/terminal) <sup>`FOSS`</sup>
+- `Full` [Windows Calculator](https://github.com/microsoft/calculator) <sup>`FOSS`</sup>
+- `Full` [WingetUI](https://github.com/marticliment/WingetUI) <sup>`FOSS`</sup>
 - `Full` [WinUI Gallery](https://github.com/microsoft/WinUI-Gallery) <sup>`FOSS`</sup>
 - `Full` [DevToys](https://github.com/veler/DevToys) <sup>`FOSS`</sup>
 - `Full` [Modern Winver](https://github.com/torchgm/NewModernWinver) <sup>`FOSS`</sup>
