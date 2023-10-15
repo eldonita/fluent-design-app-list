@@ -48,6 +48,8 @@
 #### <img src="https://i.ibb.co/54JN5RM/icons8-vk-480.png" alt="vk" width="21" height="21" /> **VK**
 - `Full` [Laney](https://www.microsoft.com/store/productid/9MSPLCXVN1M5?ocid=pdpshare)
 
+- ### Other clients
+  - `Full` [UWPX](https://github.com/UWPX/UWPX-Client) <sup>`FOSS`</sup>
 ## 📄 Text/Code Editors/Office apps 
 - ### Text Editors
   - `Full` [Notepads](https://github.com/0x7c13/Notepads) <sup>`FOSS`</sup>
