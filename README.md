@@ -15,6 +15,7 @@
 - [📁 File Managers](#-file-managers)
 - [🎥 Media Players](#-media-players)
 - [🔧 Utilites](#-utilites)
+- [<img src="https://i.slow.pics/T7o2WYO7.png" alt="win11" width="14" height="14" /> Windows Customization](#-windows-customization)
 ---
 
 |Abbreviation|Meaning|
@@ -43,4 +44,14 @@
 - [ScreenBox](https://github.com/huynhsontung/Screenbox) `FOSS`
 
 ## 🔧 Utilites
+- [Fluent Terminal](https://github.com/felixse/FluentTerminal)  `FOSS`
+- [DevToys](https://github.com/veler/DevToys)  `FOSS`
+
+## <img src="https://i.slow.pics/T7o2WYO7.png" alt="win11" width="14" height="14" /> Windows Customization
+- [Mica For Everyone](https://github.com/MicaForEveryone/MicaForEveryone) `FOSS`
+- [AME Wizard](https://ameliorated.io/)  `FOSS`
+- [Rectify11](https://github.com/Rectify11/Installer)  `FOSS`
 - [MagPie](https://github.com/Blinue/Magpie)  `FOSS`
+- [Revision Tool](https://github.com/meetrevision/revision-tool)  `FOSS`  [`📎For ReviOS Only`](https://github.com/meetrevision/playbook)
+- [Lively Wallpaper](https://github.com/rocksdanister/lively)  `FOSS`
+- [TraslucentTB](https://github.com/TranslucentTB/TranslucentTB) `FOSS`
