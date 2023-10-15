@@ -2,10 +2,10 @@
   <img src="https://i.slow.pics/T7o2WYO7.png" alt="win11" width="25" height="25" /> Fluent-Design App List  <img src="https://i.slow.pics/T7o2WYO7.png" alt="win11" width="25" height="25">
 </h1>
 
-**Windows Fluent Design** is Microsoft's advanced design language for user interfaces. It emphasizes personalization, adaptability, and responsiveness, leveraging technology to enable innovative design possibilities. Fluent Design incorporates enhancements in typography, color schemes, iconography, and other design elements to deliver a contemporary and user-centric design experience within Windows applications and interfaces.
+**Windows Fluent Design** is Microsoft's design language that represents the latest evolution in user interface design. It focuses on personalization, adaptability, and responsiveness, harnessing technology to open up new design possibilities. Fluent Design encompasses enhancements in typography, color usage, iconography, and various other design elements, with the goal of delivering a modern and user-centric design experience in Windows applications and interfaces.
 
 <p align="center">
-  <img src="https://i.ibb.co/0hzcYF0/Untitled.png" alt="FluentDesign" width="600" height="367.19">
+  <img src="https://fluent2websitecdn.azureedge.net/cdn/get-started-design.dc57051b_W7cpx.webp" alt="FluentDesign"
 </p>
 
 ---
