@@ -107,5 +107,5 @@
 - `Full` [Modern Winver](https://github.com/torchgm/NewModernWinver) <sup>`FOSS`</sup>
 - `Full` [Snipping Tool](https://www.microsoft.com/store/productid/9MZ95KL8MR0L?ocid=pdpshare)
 - `Full` [Registry Valley](https://github.com/0x5bfa/RegistryValley) <sup>`FOSS`</sup> <sup>`Not Released`</sup>
-- `No Mica` [Fluent Terminal](https://github.com/felixse/FluentTerminal)  `FOSS`
+- `No Mica` [Fluent Terminal](https://github.com/felixse/FluentTerminal)  <sup>`FOSS`</sup>
 - `No Mica` [PC Health check](https://support.microsoft.com/en-us/windows/how-to-use-the-pc-health-check-app-9c8abd9b-03ba-4e67-81ef-36f37caa7844)
