@@ -49,10 +49,11 @@
 - ### <img src="https://i.ibb.co/18hNFS2/discord-8234.png" alt="discord" width="18" height="18" /> Discord
   - `No Mica` [BetterDiscord](https://betterdiscord.app/) <sup>[`📎Needs Additional Setup`](https://betterdiscord.app/theme/Discord%2011)</sup>
 
-
 - ### <img src="https://i.ibb.co/54JN5RM/icons8-vk-480.png" alt="vk" width="22" height="22" /> VK
   - `Full` [Laney](https://www.microsoft.com/store/productid/9MSPLCXVN1M5?ocid=pdpshare)
 
+- ### <img src="https://i.ibb.co/52x0PBS/25231.png" alt="github" width="22" height="22" /> GitHub
+ - `Full` [FluentHub](https://github.com/FluentHub/FluentHub) <sup>`FOSS`</sup> 
 
 - ### Other clients
   - `Full` [UWPX](https://github.com/UWPX/UWPX-Client) <sup>`FOSS`</sup>
@@ -106,5 +107,9 @@
 - `Full` [Modern Winver](https://github.com/torchgm/NewModernWinver) <sup>`FOSS`</sup>
 - `Full` [Snipping Tool](https://www.microsoft.com/store/productid/9MZ95KL8MR0L?ocid=pdpshare)
 - `Full` [Registry Valley](https://github.com/0x5bfa/RegistryValley) <sup>`FOSS`</sup> <sup>`Not Released`</sup>
+- `Full` [Twinkle Tray](https://github.com/xanderfrangos/twinkle-tray) <sup>`FOSS`</sup>
+- `Full` [EarTrumpet](https://github.com/File-New-Project/EarTrumpet) <sup>`FOSS`</sup>
+- `Full` [Modern Flyouts](https://github.com/ModernFlyouts-Community/ModernFlyouts) <sup>`FOSS`</sup>
+- `Full` [Custom Context Menu](https://github.com/ikas-mc/ContextMenuForWindows11) <sup>`FOSS`</sup>
 - `No Mica` [Fluent Terminal](https://github.com/felixse/FluentTerminal)  <sup>`FOSS`</sup>
 - `No Mica` [PC Health check](https://support.microsoft.com/en-us/windows/how-to-use-the-pc-health-check-app-9c8abd9b-03ba-4e67-81ef-36f37caa7844)
