@@ -54,7 +54,7 @@
   - `Full` [Laney](https://www.microsoft.com/store/productid/9MSPLCXVN1M5?ocid=pdpshare)
 
 - ### <img src="https://i.ibb.co/52x0PBS/25231.png" alt="github" width="19" height="19" /> GitHub
- - `Full` [FluentHub](https://github.com/FluentHub/FluentHub) <sup>`FOSS`</sup> 
+  - `Full` [FluentHub](https://github.com/FluentHub/FluentHub) <sup>`FOSS`</sup> 
 
 - ### Other clients
   - `Full` [UWPX](https://github.com/UWPX/UWPX-Client) <sup>`FOSS`</sup>
