@@ -90,7 +90,7 @@
 
 ## 🎥 Media Players
 - ### <img src="https://i.ibb.co/xLBHDzF/spotify.png" alt="spotify" width="18" height="18"> Spotify
-  - `No Mica` Spotify <sup>[`📎Needs Additional Setup`](https://github.com/williamckha/spicetify-fluent)</sup>
+  - `No Mica` [Spotify](https://www.spotify.com/us/download/windows) <sup>[`📎Needs Additional Setup`](https://github.com/williamckha/spicetify-fluent)</sup>
 - ### Multimedia
   - `Full` [Screenbox](https://github.com/huynhsontung/Screenbox) <sup>`FOSS`</sup>
   - `Full` [Rise Media Player](https://github.com/Rise-Software/Rise-Media-Player)  <sup>`FOSS`</sup> <sup>`Not released`</sup>
