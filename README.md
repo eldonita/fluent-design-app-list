@@ -24,6 +24,8 @@
   - [Office Apps](#office-apps)
 - [📁 File Managers](#-file-managers)
 - [🎥 Media Players](#-media-players)
+  - [<img src="https://i.ibb.co/xLBHDzF/spotify.png" alt="spotify" width="18" height="18"> Spotify](#spotify)
+  - [Multimedia](#multimedia) 
 - [🖼️ Gallery](#%EF%B8%8F-gallery)
 - [🖌️ Windows Customization](#%EF%B8%8F-windows-customization)
 - [🔧 Utilites](#-utilites)
@@ -87,6 +89,9 @@
 - `No Mica` [RX-Explorer](https://github.com/zhuxb711/RX-Explorer) <sup>`FOSS`</sup>
 
 ## 🎥 Media Players
+- ### <img src="https://i.ibb.co/xLBHDzF/spotify.png" alt="spotify" width="18" height="18"> Spotify
+  - `No Mica` Spotify <sup>[`📎Needs Additional Setup`](https://github.com/williamckha/spicetify-fluent)</sup>
+- ### Multimedia
   - `Full` [Screenbox](https://github.com/huynhsontung/Screenbox) <sup>`FOSS`</sup>
   - `Full` [Rise Media Player](https://github.com/Rise-Software/Rise-Media-Player)  <sup>`FOSS`</sup> <sup>`Not released`</sup>
   - `Full` [Windows Media Player](https://www.microsoft.com/store/productid/9WZDNCRFJ3PT?ocid=pdpshare)
