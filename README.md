@@ -61,6 +61,9 @@
 - ### <img src="https://i.ibb.co/Jtqtpj7/instagram.png" alt="instagram" width="18" height="18" /> Instagram
   - [Indirect](https://github.com/huynhsontung/Indirect) <sup>`FOSS`</sup>
 
+- ### BitTorrent Clients
+  - [qBitTorrent](https://github.com/qbittorrent/qBittorrent) <sup>`FOSS`</sup> <sup>[`📎Needs Additional Setup`](https://github.com/witalihirsch/qBitTorrent-fluent-theme)</sup>
+
 - ### Other clients
   - `Full` [UWPX](https://github.com/UWPX/UWPX-Client) <sup>`FOSS`</sup>
   
