@@ -65,7 +65,7 @@
   - `Full` [Indirect](https://github.com/huynhsontung/Indirect) <sup>`FOSS`</sup>
 
 - ### <img src="https://i.ibb.co/dLRRMg7/whatsapp.png" alt="whatsapp" height="18" width="18" /> WhatsApp
-  - `Full` [WhatsApp](https://i.ibb.co/dLRRMg7/whatsapp.png)
+  - `No Mica` [WhatsApp](https://i.ibb.co/dLRRMg7/whatsapp.png)
 
 - ### BitTorrent Clients
   - `Full` [qBitTorrent](https://github.com/qbittorrent/qBittorrent) <sup>`FOSS`</sup> <sup>[`📎Needs Additional Setup`](https://github.com/witalihirsch/qBitTorrent-fluent-theme)</sup>
