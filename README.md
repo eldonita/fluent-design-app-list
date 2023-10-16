@@ -11,10 +11,10 @@
 ---
 ## 📃 Table of contents
 - [📱 Clients](#-clients)
-  - [<img src="https://i.ibb.co/DMsDsz2/telegram-logo-5941.png" alt="telegram" width="14" height="14" /> Telegram](#-telegram)
-  - [<img src="https://i.ibb.co/18hNFS2/discord-8234.png" alt="discord" width="15" height="15" /> Discord](#-discord)
-  - [<img src="https://i.ibb.co/M8DgVHZ/vk-icon-2048x2048-8zpe9ixc.png" alt="vk" width="15" height="15" /> VK](#-vk)
-  - [<img src="https://i.ibb.co/52x0PBS/25231.png" alt="github" width="15" height="15" /> GitHub](#-github)
+  - [<img src="https://i.ibb.co/FhHBYj5/telegram.png" alt="telegram" width="14" height="14" /> Telegram](#-telegram)
+  - [<img src="https://i.ibb.co/j6dbXPY/discord.png" alt="discord" width="14" height="14" /> Discord](#-discord)
+  - [<img src="https://i.ibb.co/wgTfFvc/vk.png" alt="vk" width="14" height="14" /> VK](#-vk)
+  - [<img src="https://i.ibb.co/1dPtX8z/github.png" alt="github" width="14" height="14" /> GitHub](#-github)
   - [<img src="https://i.ibb.co/Jtqtpj7/instagram.png" alt="instagram" width="14" height="14" /> Instagram](#-instagram)
   - [Other Clients](#other-clients)
 - [📄 Text/Code Editors/Office Apps](#-textcode-editorsoffice-apps)
@@ -45,16 +45,16 @@
 ---
 
 ## 📱 Clients
-- ### <img src="https://i.ibb.co/DMsDsz2/telegram-logo-5941.png" alt="telegram" width="18" height="18" /> Telegram
+- ### <img src="https://i.ibb.co/FhHBYj5/telegram.png" alt="telegram" width="18" height="18" /> Telegram
   - `Full` [Unigram](https://github.com/UnigramDev/Unigram) <sup>`FOSS`</sup>
 
-- ### <img src="https://i.ibb.co/18hNFS2/discord-8234.png" alt="discord" width="18" height="18" /> Discord
+- ### <img src="https://i.ibb.co/j6dbXPY/discord.png" alt="discord" width="18" height="18" /> Discord
   - `No Mica` [BetterDiscord](https://betterdiscord.app/) <sup>[`📎Needs Additional Setup`](https://betterdiscord.app/theme/Discord%2011)</sup>
 
-- ### <img src="https://i.ibb.co/M8DgVHZ/vk-icon-2048x2048-8zpe9ixc.png" alt="vk" width="18" height="18" /> VK
+- ### <img src="https://i.ibb.co/wgTfFvc/vk.png" alt="vk" width="18" height="18" /> VK
   - `Full` [Laney](https://www.microsoft.com/store/productid/9MSPLCXVN1M5?ocid=pdpshare)
 
-- ### <img src="https://i.ibb.co/52x0PBS/25231.png" alt="github" width="19" height="19" /> GitHub
+- ### <img src="https://i.ibb.co/1dPtX8z/github.png" alt="github" width="18" height="18" /> GitHub
   - `Full` [FluentHub](https://github.com/FluentHub/FluentHub) <sup>`FOSS`</sup>
 
 - ### <img src="https://i.ibb.co/Jtqtpj7/instagram.png" alt="instagram" width="18" height="18" /> Instagram
