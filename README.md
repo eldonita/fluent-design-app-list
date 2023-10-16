@@ -59,7 +59,7 @@
   - `Full` [FluentHub](https://github.com/FluentHub/FluentHub) <sup>`FOSS`</sup>
 
 - ### <img src="https://i.ibb.co/Jtqtpj7/instagram.png" alt="instagram" width="18" height="18" /> Instagram
-  - [Indirect](https://github.com/huynhsontung/Indirect) <sup>`FOSS`</sup>
+  - `Full` [Indirect](https://github.com/huynhsontung/Indirect) <sup>`FOSS`</sup>
 
 - ### BitTorrent Clients
   - `Full` [qBitTorrent](https://github.com/qbittorrent/qBittorrent) <sup>`FOSS`</sup> <sup>[`📎Needs Additional Setup`](https://github.com/witalihirsch/qBitTorrent-fluent-theme)</sup>
