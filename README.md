@@ -16,6 +16,7 @@
   - [<img src="https://i.ibb.co/wgTfFvc/vk.png" alt="vk" width="14" height="14" /> VK](#-vk)
   - [<img src="https://i.ibb.co/1dPtX8z/github.png" alt="github" width="14" height="14" /> GitHub](#-github)
   - [<img src="https://i.ibb.co/Jtqtpj7/instagram.png" alt="instagram" width="14" height="14" /> Instagram](#-instagram)
+  - [<img src="https://i.ibb.co/dLRRMg7/whatsapp.png" alt="whatsapp" width="14" height="14" /> WhatsApp](#-whatsapp)
   - [BitTorrent Clients](#bittorrent-clients)
   - [Other Clients](#other-clients)
 - [📄 Text/Code Editors/Office Apps](#-textcode-editorsoffice-apps)
@@ -62,6 +63,9 @@
 
 - ### <img src="https://i.ibb.co/Jtqtpj7/instagram.png" alt="instagram" width="18" height="18" /> Instagram
   - `Full` [Indirect](https://github.com/huynhsontung/Indirect) <sup>`FOSS`</sup>
+
+- ### <img src="https://i.ibb.co/dLRRMg7/whatsapp.png" alt="whatsapp" height="18" width="18" /> WhatsApp
+  - `Full` [WhatsApp](https://i.ibb.co/dLRRMg7/whatsapp.png)
 
 - ### BitTorrent Clients
   - `Full` [qBitTorrent](https://github.com/qbittorrent/qBittorrent) <sup>`FOSS`</sup> <sup>[`📎Needs Additional Setup`](https://github.com/witalihirsch/qBitTorrent-fluent-theme)</sup>
