@@ -24,7 +24,7 @@
   - [Office Apps](#office-apps)
 - [📁 File Managers](#-file-managers)
 - [🎥 Media Players](#-media-players)
-  - [<img src="https://i.ibb.co/xLBHDzF/spotify.png" alt="spotify" width="18" height="18"> Spotify](#spotify)
+  - [<img src="https://i.ibb.co/xLBHDzF/spotify.png" alt="spotify" width="18" height="18"> Spotify](#-spotify)
   - [Multimedia](#multimedia) 
 - [🖼️ Gallery](#%EF%B8%8F-gallery)
 - [🖌️ Windows Customization](#%EF%B8%8F-windows-customization)
