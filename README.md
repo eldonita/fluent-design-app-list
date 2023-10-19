@@ -11,22 +11,15 @@
 ---
 ## 📃 Table of contents
 - [📱 Clients](#-clients)
-  - [<img src="https://i.ibb.co/FhHBYj5/telegram.png" alt="telegram" width="14" height="14" /> Telegram](#-telegram)
-  - [<img src="https://i.ibb.co/XxGp7CC/discord.png" alt="discord" width="14" height="14" /> Discord](#-discord)
-  - [<img src="https://i.ibb.co/wgTfFvc/vk.png" alt="vk" width="14" height="14" /> VK](#-vk)
-  - [<img src="https://i.ibb.co/1dPtX8z/github.png" alt="github" width="14" height="14" /> GitHub](#-github)
-  - [<img src="https://i.ibb.co/Jtqtpj7/instagram.png" alt="instagram" width="14" height="14" /> Instagram](#-instagram)
-  - [<img src="https://i.ibb.co/dLRRMg7/whatsapp.png" alt="whatsapp" width="14" height="14" /> WhatsApp](#-whatsapp)
-  - [BitTorrent Clients](#bittorrent-clients)
-  - [Other Clients](#other-clients)
-- [📄 Text/Code Editors/Office Apps](#-textcode-editorsoffice-apps)
-  - [Text Editors](#text-editors)
-  - [Code Editors](#code-editors)
-  - [Office Apps](#office-apps)
+- [⬇️ BitTorrent Clients](#%EF%B8%8F-bittorrent-clients)
+- [🖋️ Text/Code Editors/Office Apps](#%EF%B8%8F-textcode-editorsoffice-apps)
+  - [✏️ Text Editors](#%EF%B8%8F-text-editors)
+  - [📝 Code Editors](#-code-editors)
+  - [📑 Office Apps](#-office-apps)
 - [📁 File Managers](#-file-managers)
 - [🎥 Media Players](#-media-players)
   - [<img src="https://i.ibb.co/xLBHDzF/spotify.png" alt="spotify" width="18" height="18"> Spotify](#-spotify)
-  - [Multimedia](#multimedia) 
+  - [🎬 Multimedia](#-multimedia) 
 - [🖼️ Gallery](#%EF%B8%8F-gallery)
 - [🖌️ Windows Customization](#%EF%B8%8F-windows-customization)
 - [🔧 Utilites](#-utilites)
@@ -49,39 +42,29 @@
 ---
 
 ## 📱 Clients
-- ### <img src="https://i.ibb.co/FhHBYj5/telegram.png" alt="telegram" width="18" height="18" /> Telegram
-  - `Full` [Unigram](https://github.com/UnigramDev/Unigram) <sup>`FOSS`</sup>
-
-- ### <img src="https://i.ibb.co/XxGp7CC/discord.png" alt="discord" width="18" height="18" /> Discord
-  - `No Mica` [BetterDiscord](https://betterdiscord.app/) <sup>[`📎Needs Additional Setup`](https://betterdiscord.app/theme/Discord%2011)</sup>
-
-- ### <img src="https://i.ibb.co/wgTfFvc/vk.png" alt="vk" width="18" height="18" /> VK
-  - `Full` [Laney](https://www.microsoft.com/store/productid/9MSPLCXVN1M5?ocid=pdpshare)
-
-- ### <img src="https://i.ibb.co/1dPtX8z/github.png" alt="github" width="18" height="18" /> GitHub
-  - `Full` [FluentHub](https://github.com/FluentHub/FluentHub) <sup>`FOSS`</sup>
-
-- ### <img src="https://i.ibb.co/Jtqtpj7/instagram.png" alt="instagram" width="18" height="18" /> Instagram
-  - `Full` [Indirect](https://github.com/huynhsontung/Indirect) <sup>`FOSS`</sup>
-
-- ### <img src="https://i.ibb.co/dLRRMg7/whatsapp.png" alt="whatsapp" height="18" width="18" /> WhatsApp
-  - `No Mica` [WhatsApp](https://apps.microsoft.com/detail/whatsapp/9NKSQGP7F2NH)
-
-- ### BitTorrent Clients
-  - `Full` [qBitTorrent](https://github.com/qbittorrent/qBittorrent) <sup>`FOSS`</sup> <sup>[`📎Needs Additional Setup`](https://github.com/witalihirsch/qBitTorrent-fluent-theme)</sup>
+- `Full` <img src="https://i.ibb.co/FhHBYj5/telegram.png" alt="telegram" width="22" height="22" /> [Unigram](https://github.com/UnigramDev/Unigram) <sup>`FOSS`</sup>
+- `Full` <img src="https://i.ibb.co/wgTfFvc/vk.png" alt="vk" width="22" height="22" /> [Laney](https://www.microsoft.com/store/productid/9MSPLCXVN1M5?ocid=pdpshare)
+- `Full` <img src="https://i.ibb.co/1dPtX8z/github.png" alt="github" width="22" height="22" /> [FluentHub](https://github.com/FluentHub/FluentHub) <sup>`FOSS`</sup>
+- `Full` <img src="https://i.ibb.co/Jtqtpj7/instagram.png" alt="instagram" width="22" height="22" /> [Indirect](https://github.com/huynhsontung/Indirect) <sup>`FOSS`</sup>
+- `No Mica` <img src="https://i.ibb.co/dLRRMg7/whatsapp.png" alt="whatsapp" height="22" width="22" /> [WhatsApp](https://apps.microsoft.com/detail/whatsapp/9NKSQGP7F2NH)
+- `No Mica` <img src="https://i.ibb.co/XxGp7CC/discord.png" alt="discord" width="22" height="22" /> [BetterDiscord](https://betterdiscord.app/) <sup>[`📎Needs Additional Setup`](https://betterdiscord.app/theme/Discord%2011)</sup>
 
 - ### Other clients
   - `Full` [UWPX](https://github.com/UWPX/UWPX-Client) <sup>`FOSS`</sup>
-  
-## 📄 Text/Code Editors/Office apps 
-- ### Text Editors
+
+## ⬇️ BitTorrent Clients
+- `Full` [qBitTorrent](https://github.com/qbittorrent/qBittorrent) <sup>`FOSS`</sup> <sup>[`📎Needs Additional Setup`](https://github.com/witalihirsch/qBitTorrent-fluent-theme)</sup>
+
+
+## ✏️ Text/Code Editors/Office apps 
+- ### 🖋️ Text Editors
   - `Full` [Notepads](https://github.com/0x7c13/Notepads) <sup>`FOSS`</sup>
   - `Full` [RectifyPad](https://github.com/Lixkote/RectifyPad) <sup>`FOSS`</sup> <sup>`Not Released`</sup>
   
-- ### Code Editors
+- ### 📝 Code Editors
   - `No Mica` [Visual Studio Code](https://github.com/microsoft/vscode) <sup>[`📎Needs Additional Setup`](https://marketplace.visualstudio.com/items?itemName=leandro-rodrigues.fluent-ui-vscode)</sup>
 
-- ### Office apps
+- ### 📑 Office apps
   - `Full` [Microsoft Office Word](https://www.microsoft.com/ru-ru/microsoft-365/word)
   - `Full` [Microsoft Office PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
   - `Full` [Microsoft Office Excel](https://www.microsoft.com/en-us/microsoft-365/excel)
@@ -93,9 +76,9 @@
 - `No Mica` [RX-Explorer](https://github.com/zhuxb711/RX-Explorer) <sup>`FOSS`</sup>
 
 ## 🎥 Media Players
-- ### <img src="https://i.ibb.co/xLBHDzF/spotify.png" alt="spotify" width="18" height="18"> Spotify
+- ### <img src="https://i.ibb.co/xLBHDzF/spotify.png" alt="spotify" width="22" height="22"> Spotify
   - `No Mica` [Spotify](https://www.spotify.com/us/download/windows) <sup>[`📎Needs Additional Setup`](https://github.com/williamckha/spicetify-fluent)</sup>
-- ### Multimedia
+- ### 🎬 Multimedia
   - `Full` [Screenbox](https://github.com/huynhsontung/Screenbox) <sup>`FOSS`</sup>
   - `Full` [Rise Media Player](https://github.com/Rise-Software/Rise-Media-Player)  <sup>`FOSS`</sup> <sup>`Not released`</sup>
   - `Full` [Windows Media Player](https://www.microsoft.com/store/productid/9WZDNCRFJ3PT?ocid=pdpshare)
@@ -103,7 +86,7 @@
 ## 🖼️ Gallery
   - `Full` [Microsoft Photos](https://www.microsoft.com/store/productid/9WZDNCRFJBH4?ocid=pdpshare)
 
-  - ### Tools
+  - ### 🛠️ Tools
       - `Full` [Microsoft Clipchamp](https://www.microsoft.com/store/productid/9P1J8S7CCWWT?ocid=pdpshare)
       - `Full` [Paint](https://www.microsoft.com/store/productid/9PCFS5B6T72H?ocid=pdpshare)
  
