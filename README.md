@@ -18,7 +18,6 @@
   - [📑 Office Apps](#-office-apps)
 - [📁 File Managers](#-file-managers)
 - [🎥 Media Players](#-media-players)
-  - [<img src="https://i.ibb.co/xLBHDzF/spotify.png" alt="spotify" width="18" height="18"> Spotify](#-spotify)
   - [🎬 Multimedia](#-multimedia) 
 - [🖼️ Gallery](#%EF%B8%8F-gallery)
 - [🖌️ Windows Customization](#%EF%B8%8F-windows-customization)
@@ -49,6 +48,7 @@
 - `Full` <img src="https://i.ibb.co/Jtqtpj7/instagram.png" alt="instagram" width="22" height="22" /> [Indirect](https://github.com/huynhsontung/Indirect) <sup>`FOSS`</sup>
 - `No Mica` <img src="https://i.ibb.co/dLRRMg7/whatsapp.png" alt="whatsapp" height="22" width="22" /> [WhatsApp](https://apps.microsoft.com/detail/whatsapp/9NKSQGP7F2NH)
 - `No Mica` <img src="https://i.ibb.co/XxGp7CC/discord.png" alt="discord" width="22" height="22" /> [BetterDiscord](https://betterdiscord.app/) <sup>[`📎Needs Additional Setup`](https://betterdiscord.app/theme/Discord%2011)</sup>
+- `No Mica` <img src="https://i.ibb.co/xLBHDzF/spotify.png" alt="spotify" width="22" height="22"> [Spicetify](https://spicetify.app/) <sup>`📎Needs One Of This Additional Setups` [`Fluent`](https://github.com/williamckha/spicetify-fluent) [`Bloom`](https://github.com/nimsandu/spicetify-bloom)</sup>
 
 - ### Other clients
   - `Full` [UWPX](https://github.com/UWPX/UWPX-Client) <sup>`FOSS`</sup>
@@ -77,8 +77,6 @@
 - `No Mica` [RX-Explorer](https://github.com/zhuxb711/RX-Explorer) <sup>`FOSS`</sup>
 
 ## 🎥 Media Players
-- ### <img src="https://i.ibb.co/xLBHDzF/spotify.png" alt="spotify" width="22" height="22"> Spotify
-  - `No Mica` [Spotify](https://www.spotify.com/us/download/windows) <sup>[`📎Needs Additional Setup`](https://github.com/williamckha/spicetify-fluent)</sup>
 - ### 🎬 Multimedia
   - `Full` [Screenbox](https://github.com/huynhsontung/Screenbox) <sup>`FOSS`</sup>
   - `Full` [Rise Media Player](https://github.com/Rise-Software/Rise-Media-Player)  <sup>`FOSS`</sup> <sup>`Not released`</sup>
