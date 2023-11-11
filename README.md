@@ -12,23 +12,35 @@
 ## 📃 Table of contents
 - [📱 Clients](#-clients)
   - [👥 Social media/Messaging](#-social-mediamessaging)
+  - [📧 E-Mail Clients](#-e-mail-clients)
   - [⬇️ BitTorrent Clients](#%EF%B8%8F-bittorrent-clients)
 - [🖋️ Text/Code Editors/Office Apps](#%EF%B8%8F-textcode-editorsoffice-apps)
   - [✏️ Text Editors](#%EF%B8%8F-text-editors)
   - [📝 Code Editors](#-code-editors)
   - [📑 Office Apps](#-office-apps)
+- [📒 Notes/To-Do/Drawboards](#-notesto-dodrawboards)
+  - [📝 Notes](#-notes)
+  - [☑️ To-Do](#%EF%B8%8F-to-do)
+  - [⬜ Drawboards](#-drawboards)
 - [📁 File Managers](#-file-managers)
 - [▶️ Media](#%EF%B8%8F-media)
-  - [📀 Video/Music Players](#-videomusic-players) 
+  - [📀 Multimedia Players](#-multimedia-players)
+  - [🎧 Music Players](#-music-players)
   - [🖼️ Gallery](#%EF%B8%8F-gallery)
   - [🎵 Music Streaming](#-music-streaming)
+  - [📺 TV Streaming](#-tv-streaming)
+  - [📄 Pdf viewer](#-pdf-viewer)
+  - [📰 News](#-news)
+  - [🎙️ Podcasts](#%EF%B8%8F-podcasts)
   - [🛠️ Tools](#%EF%B8%8F-tools)
 - [🖌️ Windows Customization](#%EF%B8%8F-windows-customization)
 - [🔧 Utilites](#-utilites)
   - [🧰 Developer Tools](#-developer-tools)
+  - [🧹 Optimizers/Cleaners](#-optimizerscleaners)
   - [🤳🏻 QR Code Generators](#-qr-code-generators)
   - [🧑‍💻 Terminals](#-terminals)
   - [🛍️ App Stores](#%EF%B8%8F-app-stores)
+  - [🔎 Search](#-search)
   - [🛠️ Other Utilities](#%EF%B8%8F-other-utilities)
 - [💻 System/Hardware Info](#-systemhardware-info)
 ---
@@ -110,6 +122,14 @@
   - `Full` [Microsoft OneNote](https://apps.microsoft.com/store/detail/XPFFZHVGQWWLHB?ocid=pdpshare)
   - `Full` [Rich Sticky Notes - Alpha](https://apps.microsoft.com/detail/9NJVV20WLDV2)
   - `Full` [Quick Pad](https://apps.microsoft.com/store/detail/quick-pad-fluent-notepad-app/9PDLWQHTLSV3?hl) <sup>`💰`</sup>
+  
+- ### ☑️ To-Do
+  - `Full` [To-Do](https://apps.microsoft.com/store/detail/todo%E1%B2%BC/9P7JL8SP2L1C)
+  - `Full` [Microsoft To Do](https://www.microsoft.com/store/productId/9NBLGGH5R558?ocid=pdpshare)
+  - `Full` [AlertMe](https://apps.microsoft.com/store/detail/alertme-quick-reminder-notifications/9MW5VRL0BQT9) <sup>`💰`</sup>
+
+- ### ⬜ Drawboards
+  - `Full` [FlowBoard](https://apps.microsoft.com/store/detail/flowboard-firecubes-edition/9PB20HCH5XN2)
 
 ## 📁 File Managers
 - `Full` [Files Community](https://github.com/files-community/Files) <sup>`FOSS`</sup>
@@ -187,9 +207,9 @@
   - `Full` [WinUI Gallery](https://github.com/microsoft/WinUI-Gallery) <sup>`FOSS`</sup>
   - `Full` [UWPSpy](https://github.com/m417z/UWPSpy) <sup>`FOSS`</sup>
   - `Full` [Registry Valley](https://github.com/0x5bfa/RegistryValley) <sup>`FOSS`</sup> <sup>`Not Released`</sup>
-  - `Full` [Run by FireCube](https://apps.microsoft.com/store/detail/run-by-firecube-not-by-microsoft/9NQGV64S5136)
+  - `Full` [Run by FireCube](https://apps.microsoft.com/store/detail/run-by-firecube-not-by-microsoft/9NQGV64S5136)
   - `Full` [File Hasher UWP](https://apps.microsoft.com/store/detail/file-hasher-uwp/9NJ5TN3XJP25)
-  - `Full` [IPDetective - Advanced IP Scanner](https://apps.microsoft.com/store/detail/ipdetective-advanced-ip-scanner/9P5BGL0C8VBS) <sup>`💰`</sup>
+  - `Full` [IPDetective - Advanced IP Scanner](https://apps.microsoft.com/store/detail/ipdetective-advanced-ip-scanner/9P5BGL0C8VBS) <sup>`💰`</sup>
   - `No Mica` [ModernRun](https://apps.microsoft.com/store/detail/modernrun/9NRMMT926PNX)
   - `No Mica` [RunManager](https://apps.microsoft.com/store/detail/runmanager/9NGP5GKCCF3S)
 
@@ -217,7 +237,7 @@
 - ### 🔎 Search
   - `Full` [Fluent Search](https://github.com/adirh3/Fluent-Search) <sup>`FOSS`</sup>
   - `Full` [EverythingToolbar](https://github.com/srwi/EverythingToolbar) <sup>`FOSS`</sup>
-     
+
 - ### 🛠️ Other Utilities
   - `Full` [Fast Copy](https://github.com/HO-COOH/FastCopy) <sup>`FOSS`</sup>
   - `Full` [Text-Grab](https://github.com/TheJoeFin/Text-Grab) <sup>`FOSS`</sup>
@@ -243,3 +263,5 @@
 ## 💻 System/Hardware Info
 - `Full` [Modern Winver](https://github.com/torchgm/NewModernWinver) <sup>`FOSS`</sup>
 - `Full` [Disk Info](https://github.com/MicaApps/DiskInfo) <sup>`FOSS`</sup>
+- `Full` [Radiograph](https://apps.microsoft.com/store/detail/radiograph/9NH1P86H06CG)
+- `No Mica` [Specs Analysis (Beta)](https://apps.microsoft.com/store/detail/specs-analysis-beta/9WZDNCRDGX54)
