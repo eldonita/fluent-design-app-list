@@ -57,9 +57,13 @@
   - `Full` <img src="https://i.ibb.co/wgTfFvc/vk.png" alt="vk" width="22" height="22" /> [Laney](https://www.microsoft.com/store/productid/9MSPLCXVN1M5?ocid=pdpshare)
   - `Full` <img src="https://i.ibb.co/1dPtX8z/github.png" alt="github" width="22" height="22" /> [FluentHub](https://github.com/FluentHub/FluentHub) <sup>`FOSS`</sup>
   - `Full` <img src="https://i.ibb.co/Jtqtpj7/instagram.png" alt="instagram" width="22" height="22" /> [Indirect](https://github.com/huynhsontung/Indirect) <sup>`FOSS`</sup>
+  - `Full` <img src="https://i.ibb.co/dJw2BzJ/reddit.png" alt="reddit" width="22" height="22" /> [Carpeddit](https://github.com/itsWindows11/Carpeddit) <sup>`FOSS`</sup>
+  - `Full` <img src="https://i.ibb.co/N6Qrqgj/youtube.png" alt="youtube" height="22" width="22" /> [ATube - YT App](https://apps.microsoft.com/store/detail/atube-yt-app/9NBLGGH69MG4)
   - `No Mica` <img src="https://i.ibb.co/dLRRMg7/whatsapp.png" alt="whatsapp" height="22" width="22" /> [WhatsApp](https://apps.microsoft.com/detail/whatsapp/9NKSQGP7F2NH)
-  - `No Mica` <img src="https://i.ibb.co/XxGp7CC/discord.png" alt="discord" width="22" height="22" /> [BetterDiscord](https://betterdiscord.app/) <sup>[`📎Needs Additional Setup`](https://betterdiscord.app/theme/Discord%2011)</sup>
-
+  - <img src="https://i.ibb.co/XxGp7CC/discord.png" alt="discord" width="22" height="22" /> Discord
+    - `Full` [Quarrel](https://github.com/UWPCommunity/Quarrel) <sup>`FOSS`</sup> <sup>`Not Released`</sup>
+    - `Full` [Mica Discord](https://github.com/GetGet99/Mica-Discord) <sup>`FOSS`</sup>
+    - `No Mica` [BetterDiscord](https://betterdiscord.app/) <sup>[`📎Needs Additional Setup`](https://betterdiscord.app/theme/Discord%2011)</sup>
   - #### Other Social media/Messaging clients
     - `Full` [UWPX](https://github.com/UWPX/UWPX-Client) <sup>`FOSS`</sup>
 
@@ -70,40 +74,82 @@
 ## ✏️ Text/Code Editors/Office apps 
 - ### 🖋️ Text Editors
   - `Full` [Notepads](https://github.com/0x7c13/Notepads) <sup>`FOSS`</sup>
+  - `Full` [SkyNotepad](https://github.com/lnxwizard/SkyNotepad) <sup>`FOSS`</sup>
+  - `Full` [Text space](https://apps.microsoft.com/store/detail/text-space/9N6CPGZGXSVT)
+  - `Full` [Storylines](https://apps.microsoft.com/store/detail/storylines/9PN77P9WJ3CX)
+  - `Full` [Typedown](https://apps.microsoft.com/store/detail/typedown/9P8TCW4H2HB4)
+  - `Full` [Ivirius Text Editor](https://apps.microsoft.com/store/detail/ivirius-text-editor/9MV281ZZF51P)
+  - `Full` [TowPad](https://github.com/itsWindows11/TowPad) <sup>`FOSS`</sup> <sup>`Not Released`</sup> 
   - `Full` [RectifyPad](https://github.com/Lixkote/RectifyPad) <sup>`FOSS`</sup> <sup>`Not Released`</sup>
+  - `Full` [FerrPad](https://github.com/shef3r/ferrpad) <sup>`FOSS`</sup>
   
 - ### 📝 Code Editors
   - `Full` [WinUIEdit](https://github.com/BreeceW/WinUIEdit) <sup>`FOSS`</sup>
+  - `Full` [Fastedit](https://github.com/FrozenAssassine/Fastedit) <sup>`FOSS`</sup>
   - `Full` [Code Writer](https://www.microsoft.com/store/productId/9WZDNCRFHZDT?ocid=pdpshare)
   - `Full` [ConTeXt IDE](https://apps.microsoft.com/detail/context-ide/9NN9Q389TTJR?gl=MX&hl=lv-LV)
+  - `Full` [FluentEdit](https://apps.microsoft.com/store/detail/fluentedit/9NWL9M9JPQ36)
   - `No Mica` [Visual Studio Code](https://github.com/microsoft/vscode) <sup>`FOSS`</sup> <sup>[`📎Needs Additional Setup`](https://marketplace.visualstudio.com/items?itemName=leandro-rodrigues.fluent-ui-vscode)</sup>
 
 - ### 📑 Office apps
   - `Full` [Microsoft Office Word](https://www.microsoft.com/ru-ru/microsoft-365/word) <sup>`💰`</sup>
   - `Full` [Microsoft Office PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint) <sup>`💰`</sup>
   - `Full` [Microsoft Office Excel](https://www.microsoft.com/en-us/microsoft-365/excel) <sup>`💰`</sup>
-  - `Full` [Microsoft OneNote](https://apps.microsoft.com/store/detail/XPFFZHVGQWWLHB?ocid=pdpshare) <sup>`💰`</sup>
   - `Full` [Microsoft Outlook](https://www.microsoft.com/store/productid/9NRX63209R7B?ocid=pdpshare) <sup>`💰`</sup>
+
+## 📒 Notes/Reminders/Drawboards
+- ### 📝 Notes
+  - `Full` [HiNote](https://apps.microsoft.com/store/detail/hinote/9N94LT5S8FD9)
+  - `Full` [Microsoft OneNote](https://apps.microsoft.com/store/detail/XPFFZHVGQWWLHB?ocid=pdpshare)
+  - `Full` [Rich Sticky Notes - Alpha](https://apps.microsoft.com/detail/9NJVV20WLDV2)
+  - `Full` [Quick Pad](https://apps.microsoft.com/store/detail/quick-pad-fluent-notepad-app/9PDLWQHTLSV3?hl) <sup>`💰`</sup>
 
 ## 📁 File Managers
 - `Full` [Files Community](https://github.com/files-community/Files) <sup>`FOSS`</sup>
 - `No Mica` [RX-Explorer](https://github.com/zhuxb711/RX-Explorer) <sup>`FOSS`</sup>
 
 ## ▶️ Media
- - ### 📀 Video/Music Players
+ - ### 📀 Multimedia Players
    - `Full` [Screenbox](https://github.com/huynhsontung/Screenbox) <sup>`FOSS`</sup>
    - `Full` [Rise Media Player](https://github.com/Rise-Software/Rise-Media-Player)  <sup>`FOSS`</sup> <sup>`Not released`</sup>
    - `Full` [Windows Media Player](https://www.microsoft.com/store/productid/9WZDNCRFJ3PT?ocid=pdpshare)
+   - `Full` [Pinnacle Media Player](https://apps.microsoft.com/store/detail/pinnacle-media-player/9P534C2W7JK3)
+
+ - ### 🎧 Music Players
+   - `Full` [Strix Music](https://github.com/Arlodotexe/strix-music) <sup>`FOSS`</sup>
+   - `Full` [Stylophone](https://github.com/Difegue/Stylophone) <sup>`FOSS`</sup>
+   - `Full` [Meloisk](https://apps.microsoft.com/store/detail/melosik-music-player-for-windows/9NH759PMH26M)
   
  - ### 🖼️ Gallery
+   - `Full` [Image Viewer](https://github.com/dragonofmercy/image-viewer) <sup>`FOSS`</sup>
    - `Full` [Microsoft Photos](https://www.microsoft.com/store/productid/9WZDNCRFJBH4?ocid=pdpshare)
-
+   - `Full` [Sakura Photo Viewer](https://apps.microsoft.com/store/detail/sakura-photo-viewer/9PG9N9FTR590?hl=en-us&gl=us)
+   - `Full` [Visum Photo Viewer](https://apps.microsoft.com/store/detail/visum-photo-viewer/9N1X3Z50BLM8)
+   
  - ### 🎵 Music Streaming
+   - `Full` [Apple Music Preview](https://apps.microsoft.com/store/detail/apple-music-preview/9PFHDD62MXS1)
    - `No Mica` [Spotify](https://spicetify.app/) <sup>`📎Needs One Of This Additional Setups:` [`Fluent`](https://github.com/williamckha/spicetify-fluent) [`Bloom`](https://github.com/nimsandu/spicetify-bloom)</sup>
-  
- - ### 🛠️ Tools
-   - `Full` [Microsoft Clipchamp](https://www.microsoft.com/store/productid/9P1J8S7CCWWT?ocid=pdpshare)
-   - `Full` [Paint](https://www.microsoft.com/store/productid/9PCFS5B6T72H?ocid=pdpshare)
+
+- ### 📺 TV Streaming
+  - `Full` [Apple TV Preview](https://apps.microsoft.com/store/detail/apple-tv-preview/9NM4T8B9JQZ1)
+
+- ### 📄 Pdf viewer
+  - `Full` [Fluetro PDF](https://apps.microsoft.com/store/detail/fluetro-pdf/9NSR7B2LT6LN)
+
+- ### 🎙️ Podcasts
+  - `Full` [FluentCast](https://apps.microsoft.com/store/detail/fluentcast/9PM46JRSDQQR)
+  - `Full` [Grover Podcast](https://matheus-inacio.github.io/grover-podcast/)
+
+- ### 🛠️ Tools
+  - `Full` [Tagger](https://github.com/NickvisionApps/Tagger) <sup>`FOSS`</sup>
+  - `Full` [Microsoft Clipchamp](https://www.microsoft.com/store/productid/9P1J8S7CCWWT?ocid=pdpshare)
+  - `Full` [PDF Unlocker - Unlock PDF, Remove Password](https://apps.microsoft.com/store/detail/pdf-unlocker-unlock-pdf-remove-password/9P20WBQVFD4N)
+  - `Full` [Pdf.JPG - PDF to JPG, PDF Converter](https://apps.microsoft.com/store/detail/pdfjpg-pdf-to-jpg-pdf-converter/9NJ9N3MG9JLW)
+  - `Full` [AIC - Any Image Converter, JPG Converter](https://apps.microsoft.com/store/detail/aic-any-image-converter-jpg-converter/9NN44CM8T0GS)
+  - `Full` [AVC - Any Video Converter, MP4 Converter](https://apps.microsoft.com/store/detail/avc-any-video-converter-mp4-converter/9PMVGZSGZXVB)
+  - `Full` [HEIC to JPEG](https://apps.microsoft.com/store/detail/heic-to-jpeg-heicheif-to-jpg-converter/9NTVCMPJM5V3)
+  - `Full` [Paint](https://www.microsoft.com/store/productid/9PCFS5B6T72H?ocid=pdpshare)
+  - `No Mica` [PDF Jack](https://apps.microsoft.com/store/detail/pdf-jack/9NBLGGH1P3P6)
  
 ## 🖌️ Windows Customization
 - `Full` [Rectify11](https://github.com/Rectify11/Installer) <sup>`FOSS`</sup>
@@ -125,6 +171,9 @@
   - `Full` [WinUI Gallery](https://github.com/microsoft/WinUI-Gallery) <sup>`FOSS`</sup>
   - `Full` [UWPSpy](https://github.com/m417z/UWPSpy) <sup>`FOSS`</sup>
   - `Full` [Registry Valley](https://github.com/0x5bfa/RegistryValley) <sup>`FOSS`</sup> <sup>`Not Released`</sup>
+  - `Full` [Run by FireCube](ff
+  - `No Mica` [ModernRun](https://apps.microsoft.com/store/detail/modernrun/9NRMMT926PNX)
+  - `No Mica` [RunManager](https://apps.microsoft.com/store/detail/runmanager/9NGP5GKCCF3S)
 - ### 🤳🏻 QR Code Generators
   - [QRCoder - Easy QR Code Generator](https://apps.microsoft.com/detail/9NGPP9JX361T?ocid=pdpshare&hl=en-us&gl=US) <sup>`💰`</sup>
   - [QR Code Generator Pro](https://www.microsoft.com/store/productId/9NBXJXZ6VR72?ocid=pdpshare) <sup>`💰`</sup>
