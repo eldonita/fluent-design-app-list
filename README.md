@@ -37,12 +37,12 @@
 - [🔧 Utilites](#-utilites)
   - [🧰 Developer Tools](#-developer-tools)
   - [🧹 Optimizers/Cleaners](#-optimizerscleaners)
+  - [💻 System/Hardware Info](#-systemhardware-info)
   - [🤳🏻 QR Code Generators](#-qr-code-generators)
   - [🧑‍💻 Terminals](#-terminals)
   - [🛍️ App Stores](#%EF%B8%8F-app-stores)
   - [🔎 Search](#-search)
   - [🛠️ Other Utilities](#%EF%B8%8F-other-utilities)
-- [💻 System/Hardware Info](#-systemhardware-info)
 ---
 
 ## Differences between FD and FDM
@@ -219,7 +219,13 @@
   - `FDM` [PowerDisk - PC Cleaner](https://apps.microsoft.com/store/detail/powerdisk-pc-cleaner/9PLPNC3D2N2T)
   - `FD` [Duplicates Cleaner](https://apps.microsoft.com/store/detail/duplicates-cleaner/9PMXPZ18CZ49)
   - `FD` [PC Health check](https://support.microsoft.com/en-us/windows/how-to-use-the-pc-health-check-app-9c8abd9b-03ba-4e67-81ef-36f37caa7844)
-    
+     
+- ### 💻 System/Hardware Info
+  - `FDM` [Modern Winver](https://github.com/torchgm/NewModernWinver) <sup>`FOSS`</sup>
+  - `FDM` [Disk Info](https://github.com/MicaApps/DiskInfo) <sup>`FOSS`</sup>
+  - `FDM` [Radiograph](https://apps.microsoft.com/store/detail/radiograph/9NH1P86H06CG)
+  - `FD` [Specs Analysis (Beta)](https://apps.microsoft.com/store/detail/specs-analysis-beta/9WZDNCRDGX54)
+ 
 - ### 🤳🏻 QR Code Generators
   - `FDM` [barcodrod.io](https://github.com/MarkHopper24/barcodrod.io) <sup>`FOSS`</sup>
   - `FDM` [QRCoder - Easy QR Code Generator](https://apps.microsoft.com/detail/9NGPP9JX361T?ocid=pdpshare&hl=en-us&gl=US) <sup>`💰`</sup>
@@ -259,9 +265,3 @@
   - `FDM` [DiskBenchmark - Test HardDisk Performance](https://apps.microsoft.com/store/detail/diskbenchmark-test-harddisk-performance/9NJFMWN131GK) <sup>`💰`</sup>
   - `FD` [Ritt](https://apps.microsoft.com/detail/9N020ZXP2Z1G)
   - `FD` [UUP Media Creator](https://apps.microsoft.com/store/detail/uup-media-creator/9N1Z0JXB224X)
-
-## 💻 System/Hardware Info
-- `FDM` [Modern Winver](https://github.com/torchgm/NewModernWinver) <sup>`FOSS`</sup>
-- `FDM` [Disk Info](https://github.com/MicaApps/DiskInfo) <sup>`FOSS`</sup>
-- `FDM` [Radiograph](https://apps.microsoft.com/store/detail/radiograph/9NH1P86H06CG)
-- `FD` [Specs Analysis (Beta)](https://apps.microsoft.com/store/detail/specs-analysis-beta/9WZDNCRDGX54)
