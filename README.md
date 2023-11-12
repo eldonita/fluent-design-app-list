@@ -125,8 +125,8 @@
   
 - ### ☑️ To-Do
   - `Full` [To-Do](https://apps.microsoft.com/store/detail/todo%E1%B2%BC/9P7JL8SP2L1C)
-  - `Full` [Microsoft To Do](https://www.microsoft.com/store/productId/9NBLGGH5R558?ocid=pdpshare)
   - `Full` [AlertMe](https://apps.microsoft.com/store/detail/alertme-quick-reminder-notifications/9MW5VRL0BQT9) <sup>`💰`</sup>
+  - `No Mica` [Microsoft To Do](https://www.microsoft.com/store/productId/9NBLGGH5R558?ocid=pdpshare)
 
 - ### ⬜ Drawboards
   - `Full` [FlowBoard](https://apps.microsoft.com/store/detail/flowboard-firecubes-edition/9PB20HCH5XN2)
